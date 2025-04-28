@@ -1,2 +1,10 @@
-# Katainaka-no-Ossan-Kensei-ni-Naru
-Sıradan Bir Köylü Hünerli Bir Kılıç Ustası Oluyor
+## Emeği Geçenler
+
+| Roller         | Ekip               |
+|----------------|--------------------|
+| Çeviri              | Meltem Arıca  |
+| Redaktör            | Fei           |
+| Son Kontrol         | Vuats         |
+| Yazı Dizimi         | Einherjar     |
+| Şarkılar   	        | Fei   	      |
+| Kaynak              | WEB-DL AMZN   |
